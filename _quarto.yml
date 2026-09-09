@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Mi-Ji Kim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: CV
+      - href: teaching.qmd
+        text: Teaching
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: center.qmd
+        text: Centers & leadership
+      - href: activities.qmd
+        text: Activities
+      - href: contact.qmd
+        text: Contacts
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

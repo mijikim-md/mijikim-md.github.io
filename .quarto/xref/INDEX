@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "38fbdbff"
+  },
+  "about.qmd": {
+    "about.html": "85bfd599"
+  },
+  "teaching.qmd": {
+    "teaching.html": "8de53a50"
+  },
+  "projects.qmd": {
+    "projects.html": "f39a6411"
+  },
+  "publications.qmd": {
+    "publications.html": "9b97a2cc"
+  },
+  "presentations.qmd": {
+    "presentations.html": "3283701f"
+  },
+  "center.qmd": {
+    "center.html": "a3464412"
+  },
+  "activities.qmd": {
+    "activities.html": "78ef04f2"
+  },
+  "contact.qmd": {
+    "contact.html": "d3918ce6"
+  }
+}
