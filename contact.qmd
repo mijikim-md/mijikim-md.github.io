@@ -2,8 +2,16 @@
 title: "연락처"
 ---
 
-- Address: 경남 진주시 진주대로 816번길 15 경상국립대학교 의과대학 의학관 5층 예방의학교실 530호(52727)
-- Tel: +82-55-772-8091
-- E-mail: mijikim\@gnu.ac.kr
+Mi-Ji Kim, MD, PhD\
+Department of Preventive Medicine, College of Medicine, Gyeongsang National University,\
+15 Jinju-daero 816beon-gil, Jinju 52727, Republic of Korea\
+Tel: +82-55-772-8091\
+E-mail: mijikim\@gnu.ac.kr
+
+김미지, MD, PhD\
+경상국립대학교 의과대학 예방의학교실\
+경남 진주시 진주대로 816번길 15 경상국립대학교 의과대학 의학관 5층 예방의학교실 530호(52727)\
+Tel: +82-55-772-8091\
+E-mail: mijikim\@gnu.ac.kr
 
 ---
