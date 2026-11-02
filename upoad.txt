@@ -1,0 +1,7 @@
+Terminal에서 실시할 것
+cd c:\\Users\user\OneDrive\my-website
+
+git add.
+git commit -m "update website"
+git push
+quarto publish gh-pages
